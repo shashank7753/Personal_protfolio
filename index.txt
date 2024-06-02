@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Shashank Mishra
 Richard hanrick
 Web developer
 
